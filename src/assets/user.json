@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "userId": 1,
+     "image":"https://i.pinimg.com/originals/ac/b9/90/acb990190ca1ddbb9b20db303375bb58.jpg",
+      "userName": "Ali",
+      "password":"123456"
+    },
+    {
+      "userId": 2,
+       "image":"https://static.turbosquid.com/Preview/001214/650/2V/boy-cartoon-3D-model_D.jpg",
+      "userName": "Haris",
+      "password":"123456"
+    },
+    {
+      "userId": 3,
+       "image":"https://2.bp.blogspot.com/-8ytYF7cfPkQ/WkPe1-rtrcI/AAAAAAAAGqU/FGfTDVgkcIwmOTtjLka51vineFBExJuSACLcBGAs/s320/31.jpg",
+      "userName": "Aisha",
+      "password":"123456"
+    },
+    {
+      "userId": 4,
+       "image":"https://static.turbosquid.com/Preview/001292/481/WV/_D.jpg",
+      "userName": "Amir",
+      "password":"123456"
+    },
+    {
+      "userId": 5,
+       "image":"https://i.pinimg.com/originals/ac/b9/90/acb990190ca1ddbb9b20db303375bb58.jpg",
+      "userName": "Sohail",
+      "password":"123456"
+    },
+    {
+      "userId": 6,
+      "image":"https://static.turbosquid.com/Preview/001292/481/WV/_D.jpg",
+      "userName": "Fakhar",
+      "password":"123456"
+    },
+    {
+      "userId": 7,
+       "image":"https://i.pinimg.com/originals/ac/b9/90/acb990190ca1ddbb9b20db303375bb58.jpg",
+      "userName": "Moaeen",
+      "password":"123456"
+    },
+    {
+      "userId": 8,
+      "image":"https://2.bp.blogspot.com/-8ytYF7cfPkQ/WkPe1-rtrcI/AAAAAAAAGqU/FGfTDVgkcIwmOTtjLka51vineFBExJuSACLcBGAs/s320/31.jpg",
+      "userName": "Abrar",
+      "password":"123456"
+    },
+    {
+      "userId": 9,
+      "image":"https://i.pinimg.com/originals/ac/b9/90/acb990190ca1ddbb9b20db303375bb58.jpg",
+      "userName": "Amir",
+      "password":"123456"
+    },
+    {
+      "userId": 10,
+      "image":"https://2.bp.blogspot.com/-8ytYF7cfPkQ/WkPe1-rtrcI/AAAAAAAAGqU/FGfTDVgkcIwmOTtjLka51vineFBExJuSACLcBGAs/s320/31.jpg",
+      "userName": "Kashif",
+      "password":"123456"
+    }
+  ]
+}

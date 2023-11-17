@@ -1,0 +1,59 @@
+ [
+    {
+      "channelId": 1,
+      "channelParticipantsId": 1,
+      "userId": 1,
+      "isAdmin": true,
+      "isActive": true
+    },
+    {
+      "channelId": 1,
+      "channelParticipantsId": 2,
+      "userId": 2,
+      "isAdmin": true,
+      "isActive": true
+    },
+    {
+      "channelId": 2,
+      "channelParticipantsId": 3,
+      "userId": 2,
+      "isAdmin": true,
+      "isActive": true
+    },
+    {
+      "channelId": 2,
+      "channelParticipantsId": 4,
+      "userId": 3,
+      "isAdmin": true,
+      "isActive": true
+    },
+     {
+      "channelId": 3,
+      "channelParticipantsId": 5,
+      "userId": 1,
+      "isAdmin": true,
+      "isActive": true
+    },
+    {
+      "channelId": 3,
+      "channelParticipantsId": 6,
+      "userId": 4,
+      "isAdmin": true,
+      "isActive": true
+    },
+    {
+      "channelId": 4,
+      "channelParticipantsId": 7,
+      "userId": 1,
+      "isAdmin": true,
+      "isActive": true
+    },
+    {
+      "channelId": 4,
+      "channelParticipantsId": 8,
+      "userId": 3,
+      "isAdmin": true,
+      "isActive": true
+    }
+  ]
+

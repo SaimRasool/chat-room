@@ -1,0 +1,320 @@
+[
+  {
+    "channelId": 1,
+    "senderID": 1,
+    "messageContent": "hell well !",
+    "messageDate": "2023-11-04T10:00:00Z",
+    "isSeen": true,
+    "channelMessageId": 1
+  },
+  {
+    "channelId": 1,
+    "senderID": 1,
+    "messageContent": "hell well !",
+    "messageDate": "2023-11-04T10:00:00Z",
+    "isSeen": true,
+    "channelMessageId": 2
+  },
+  {
+    "messageContent": "hii",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-15T17:18:48.812Z",
+    "senderID": 1,
+    "channelMessageId": 3
+  },
+  {
+    "messageContent": "hi",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-15T17:49:25.516Z",
+    "senderID": 1,
+    "channelMessageId": 4
+  },
+  {
+    "messageContent": "hi hrlr",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-15T18:02:00.100Z",
+    "senderID": 1,
+    "channelMessageId": 5
+  },
+  {
+    "messageContent": "hi you",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-15T18:06:50.516Z",
+    "senderID": 1,
+    "channelMessageId": 6
+  },
+  {
+    "messageContent": "hi you",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-15T18:08:43.699Z",
+    "senderID": 1,
+    "channelMessageId": 7
+  },
+  {
+    "messageContent": "hi",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-15T18:09:01.187Z",
+    "senderID": 1,
+    "channelMessageId": 8
+  },
+  {
+    "messageContent": "hello eweweas",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-15T18:11:25.972Z",
+    "senderID": 1,
+    "channelMessageId": 9
+  },
+  {
+    "messageContent": "hi",
+    "channelId": 3,
+    "isSeen": false,
+    "messageDate": "2023-11-15T18:15:51.836Z",
+    "senderID": 1,
+    "channelMessageId": 10
+  },
+  {
+    "messageContent": "hi",
+    "channelId": 4,
+    "isSeen": false,
+    "messageDate": "2023-11-15T19:16:14.779Z",
+    "senderID": 1,
+    "channelMessageId": 11
+  },
+  {
+    "messageContent": "hello\n",
+    "channelId": 4,
+    "isSeen": false,
+    "messageDate": "2023-11-15T19:16:21.650Z",
+    "senderID": 1,
+    "channelMessageId": 12
+  },
+  {
+    "messageContent": "how are you",
+    "channelId": 4,
+    "isSeen": false,
+    "messageDate": "2023-11-15T19:17:26.643Z",
+    "senderID": 1,
+    "channelMessageId": 13
+  },
+  {
+    "messageContent": "",
+    "channelId": 4,
+    "isSeen": false,
+    "messageDate": "2023-11-15T19:23:47.116Z",
+    "senderID": 1,
+    "channelMessageId": 14
+  },
+  {
+    "messageContent": "",
+    "channelId": 4,
+    "isSeen": false,
+    "messageDate": "2023-11-15T19:23:50.299Z",
+    "senderID": 1,
+    "channelMessageId": 15
+  },
+  {
+    "isSelf": false,
+    "messageContent": "",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:45:05.875Z",
+    "senderID": 1,
+    "channelMessageId": 16
+  },
+  {
+    "isSelf": false,
+    "messageContent": "",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:45:06.016Z",
+    "senderID": 1,
+    "channelMessageId": 17
+  },
+  {
+    "isSelf": false,
+    "messageContent": "",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:45:06.506Z",
+    "senderID": 1,
+    "channelMessageId": 18
+  },
+  {
+    "isSelf": false,
+    "messageContent": "",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:45:07.454Z",
+    "senderID": 1,
+    "channelMessageId": 19
+  },
+  {
+    "isSelf": false,
+    "messageContent": "as",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:58:45.430Z",
+    "senderID": 1,
+    "channelMessageId": 20
+  },
+  {
+    "isSelf": false,
+    "messageContent": "",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:58:45.531Z",
+    "senderID": 1,
+    "channelMessageId": 21
+  },
+  {
+    "isSelf": false,
+    "messageContent": "\n",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:58:45.771Z",
+    "senderID": 1,
+    "channelMessageId": 22
+  },
+  {
+    "isSelf": false,
+    "messageContent": "as",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:58:46.734Z",
+    "senderID": 1,
+    "channelMessageId": 23
+  },
+  {
+    "isSelf": false,
+    "messageContent": "",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:58:46.853Z",
+    "senderID": 1,
+    "channelMessageId": 24
+  },
+  {
+    "isSelf": false,
+    "messageContent": "a",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:58:47.898Z",
+    "senderID": 1,
+    "channelMessageId": 25
+  },
+  {
+    "isSelf": false,
+    "messageContent": "s",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:58:48.039Z",
+    "senderID": 1,
+    "channelMessageId": 26
+  },
+  {
+    "isSelf": false,
+    "messageContent": "",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:59:17.939Z",
+    "senderID": 1,
+    "channelMessageId": 27
+  },
+  {
+    "isSelf": false,
+    "messageContent": "s",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:59:51.283Z",
+    "senderID": 1,
+    "channelMessageId": 28
+  },
+  {
+    "isSelf": false,
+    "messageContent": "s",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:59:52.124Z",
+    "senderID": 1,
+    "channelMessageId": 29
+  },
+  {
+    "isSelf": false,
+    "messageContent": "s",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:59:53.000Z",
+    "senderID": 1,
+    "channelMessageId": 30
+  },
+  {
+    "isSelf": false,
+    "messageContent": "as",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:59:53.480Z",
+    "senderID": 1,
+    "channelMessageId": 31
+  },
+  {
+    "isSelf": false,
+    "messageContent": "a",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:59:53.631Z",
+    "senderID": 1,
+    "channelMessageId": 32
+  },
+  {
+    "isSelf": false,
+    "messageContent": "s",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:59:53.862Z",
+    "senderID": 1,
+    "channelMessageId": 33
+  },
+  {
+    "isSelf": false,
+    "messageContent": "",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T17:59:54.004Z",
+    "senderID": 1,
+    "channelMessageId": 34
+  },
+  {
+    "isSelf": false,
+    "messageContent": "",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-16T18:03:29.691Z",
+    "senderID": 1,
+    "channelMessageId": 35
+  },
+  {
+    "isSelf": false,
+    "messageContent": "hello",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-17T18:01:25.824Z",
+    "senderID": 1,
+    "channelMessageId": 36
+  },
+  {
+    "isSelf": false,
+    "messageContent": "how are you",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-17T18:01:35.800Z",
+    "senderID": 1,
+    "channelMessageId": 37
+  }
+]
