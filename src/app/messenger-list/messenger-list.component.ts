@@ -16,6 +16,7 @@ export class MessengerListComponent implements OnInit {
   channelList: any[] = [];
   selecteChannel: ChannelVM = new ChannelVM();
   logedInUserChannelIds: number[] = [];
+  ChannelParticipantIds: number[] = [];
   isMenuVisible = false;
   userList: UserVM[] = [];
   constructor(
@@ -29,7 +30,6 @@ export class MessengerListComponent implements OnInit {
     if (this.user) {
       await this.getUserChannelIds();
     }
-    this.loadAllUserList();
   }
   toggle() {
     this.isMenuVisible = !this.isMenuVisible;
@@ -68,7 +68,9 @@ export class MessengerListComponent implements OnInit {
               );
               ch.channelName = cp.userName;
               ch.image = cp.image;
+              this.ChannelParticipantIds.push(cp.userId);
             }
+            this.loadAllUserList();
           },
           (error) => {
             this.alertService.error(error);
@@ -77,15 +79,18 @@ export class MessengerListComponent implements OnInit {
   }
   loadAllUserList() {
     this.alertService.clear();
-      this.accountService.getAllUser().subscribe((data) => {
-            this.userList = data.users;
-          },
-          (error) => {
-            this.alertService.error(error);
-          }
+    this.accountService.getAllUser().subscribe(
+      (data) => {
+        this.userList = data.users.filter(
+          (us: UserVM) =>
+            us.userId != this.user.userId && !this.ChannelParticipantIds.includes(us.userId!)
         );
+      },
+      (error) => {
+        this.alertService.error(error);
+      }
+    );
   }
-
   selectedChannel(channel: ChannelVM) {
     this.channelList = this.channelList.map((ch) => {
       if (ch.channelId == channel.channelId) {
