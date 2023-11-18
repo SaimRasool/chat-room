@@ -4,7 +4,5 @@ export class ChannelParticipantVM {
     userId?: number;  
     isAdmin?: boolean;  
     isActive?: boolean;  
-    userName?: string;  
-    image?: string; 
 }
 

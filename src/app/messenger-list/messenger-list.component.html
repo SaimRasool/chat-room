@@ -9,6 +9,16 @@
                             <span class="input-group-text search_btn"><i class="fas fa-search"></i></span>
                         </div>
                     </div>
+                    <span id="action_menu_btn" (click)="toggle()"><i class="fas fa-ellipsis-v"></i></span>
+                    <div class="action_menu" *ngIf="isMenuVisible">
+                        <ul>
+                            <li *ngFor="let user of userList">
+                                <div class="img_cont">
+                                    <img [src]="user.image" class="rounded-circle user_img">
+                                </div> {{user.userName}}
+                            </li>
+                        </ul>
+                    </div>
                 </div>
                 <div class="card-body contacts_body">
                     <ul class="contacts">

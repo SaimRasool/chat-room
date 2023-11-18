@@ -12,9 +12,8 @@ import { ChannelMessageVM } from '../models/channelMessageVM';
   styleUrls: ['./my-messenger.component.css']
 })
 export class MyMessengerComponent implements OnChanges, OnInit  {
-isMenuVisible = false;
 user: UserVM =new UserVM();
-@Input() channel: ChannelVM | undefined;
+@Input() channel: any | undefined;
 channelMessages:ChannelMessageVM[]=[];
 displayMessagesList:any[]=[];
 participantList:any[]=[];
@@ -39,10 +38,7 @@ textareaValue: string = '';
 
     }
   }
-  toggle()
-  {
-    this.isMenuVisible = !this.isMenuVisible;
-  }  
+  
    async loadChannelparticipant() {
      this.alertService.clear();
      await this.messengerService.getChannelParticipants(this.channel?.channelId!).toPromise().then(data => {

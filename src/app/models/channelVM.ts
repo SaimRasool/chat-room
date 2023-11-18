@@ -5,7 +5,6 @@ export class ChannelVM {
     isAdmin?: boolean;  
     lastMessageContent?: string; 
     lastMessageDate?: Date; 
-    image?:string;
     isActive: boolean=false;  
     isAvailable: boolean=false;  
     
