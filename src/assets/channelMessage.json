@@ -316,5 +316,14 @@
     "messageDate": "2023-11-17T18:01:35.800Z",
     "senderID": 1,
     "channelMessageId": 37
+  },
+  {
+    "isSelf": false,
+    "messageContent": "asd",
+    "channelId": 1,
+    "isSeen": false,
+    "messageDate": "2023-11-20T19:13:27.612Z",
+    "senderID": 1,
+    "channelMessageId": 38
   }
 ]
